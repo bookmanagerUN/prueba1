@@ -19,7 +19,7 @@ public class Book {
                 //Show book
                 break;
             case 2:
-                //Crear libro
+                //New Book
                 break;   
         }
         

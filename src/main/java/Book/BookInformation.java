@@ -2,13 +2,12 @@ package Book;
 
 public class BookInformation {
     
-    Libro x
+    /*Libro x
     Autor x
     (Add Opinion)
             (View Opinion)
     (Add Note)
             (View Notes)
-    (eliminar)
-                   
-    
+    (eliminar)*/
+                    
 }
